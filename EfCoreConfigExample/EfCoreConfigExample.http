@@ -1,0 +1,6 @@
+@EfCoreConfigExample_HostAddress = http://localhost:5059
+
+GET {{EfCoreConfigExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
